@@ -1,5 +1,4 @@
 import numpy as np
-
 import src.data_loader as data_loader
 from src.utils import copy_values, map_to_rating_values
 
