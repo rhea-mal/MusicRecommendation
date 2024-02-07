@@ -31,10 +31,12 @@ Which resulted in the optimal parameters of k = 58 and T =  ~200 for playlist da
 <img width="673" alt="Screenshot 2024-02-07 at 10 21 27 AM" src="https://github.com/rhea-mal/MusicRecommendation/assets/70975260/2f1ea3cc-25d5-4d4a-bce1-6899a716c2ea">
 
 PCA of user preferences by Euclidean Distance 
+
 <img width="600" alt="Screenshot 2024-02-07 at 10 19 55 AM" src="https://github.com/rhea-mal/MusicRecommendation/assets/70975260/fdb73910-7ea3-4c33-a240-430947c1bda8">
 <img width="658" alt="Screenshot 2024-02-07 at 10 23 32 AM" src="https://github.com/rhea-mal/MusicRecommendation/assets/70975260/c88742eb-a4a7-4f75-ac20-66f9e67ba1fe">
 
 <img width="272" alt="Screenshot 2024-02-07 at 10 19 37 AM" src="https://github.com/rhea-mal/MusicRecommendation/assets/70975260/848c5933-e813-4ea9-a7d0-c09e7bcf6d94">
 
-Genre Analysis Post-hoc
+Genre Analysis Post-hoc:
+
 <img width="274" alt="Screenshot 2024-02-07 at 10 20 36 AM" src="https://github.com/rhea-mal/MusicRecommendation/assets/70975260/6b3217a6-e1a6-4695-ab11-5a4614d43d99">
